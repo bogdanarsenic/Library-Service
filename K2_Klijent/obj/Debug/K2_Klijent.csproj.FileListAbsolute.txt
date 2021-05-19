@@ -1,0 +1,10 @@
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Klijent\bin\Debug\K2_Klijent.exe.config
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Klijent\bin\Debug\K2_Klijent.exe
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Klijent\bin\Debug\K2_Klijent.pdb
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Klijent\bin\Debug\K2_Biblioteka.dll
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Klijent\bin\Debug\K2_Biblioteka.pdb
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Klijent\obj\Debug\K2_Klijent.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Klijent\obj\Debug\K2_Klijent.csproj.CopyComplete
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Klijent\obj\Debug\K2_Klijent.exe
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Klijent\obj\Debug\K2_Klijent.pdb
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Klijent\obj\Debug\K2_Klijent.csprojAssemblyReference.cache

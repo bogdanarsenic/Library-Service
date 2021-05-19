@@ -1,0 +1,10 @@
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Servis\bin\Debug\K2_Servis.exe.config
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Servis\bin\Debug\K2_Servis.exe
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Servis\bin\Debug\K2_Servis.pdb
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Servis\bin\Debug\K2_Biblioteka.dll
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Servis\bin\Debug\K2_Biblioteka.pdb
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Servis\obj\Debug\K2_Servis.csprojAssemblyReference.cache
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Servis\obj\Debug\K2_Servis.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Servis\obj\Debug\K2_Servis.csproj.CopyComplete
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Servis\obj\Debug\K2_Servis.exe
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Servis\obj\Debug\K2_Servis.pdb

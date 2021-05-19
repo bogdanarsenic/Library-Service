@@ -1,0 +1,5 @@
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Biblioteka\bin\Debug\K2_Biblioteka.dll
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Biblioteka\bin\Debug\K2_Biblioteka.pdb
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Biblioteka\obj\Debug\K2_Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Biblioteka\obj\Debug\K2_Biblioteka.dll
+C:\Users\Bogdan\Desktop\K2_e386_2014- ADS\K2_e386_2014\K2_Biblioteka\obj\Debug\K2_Biblioteka.pdb
